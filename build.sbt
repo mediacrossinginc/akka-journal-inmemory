@@ -2,7 +2,7 @@ organization := "com.github.michaelpisula"
 
 name := "akka-persistence-inmemory"
 
-version := "0.1-SNAPSHOT"
+version := "0.1-SHA-fa12742e681e70f93523caa351f271c09245c9eb"
 
 scalaVersion := "2.10.3"
 
